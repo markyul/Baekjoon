@@ -1,0 +1,5 @@
+﻿  나머지.cpp
+D:\coding\백준\나머지(3052번)\나머지.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\coding\백준\나머지(3052번)\나머지.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\coding\백준\나머지(3052번)\나머지.cpp(25,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  나머지(3052번).vcxproj -> D:\coding\백준\Debug\나머지(3052번).exe

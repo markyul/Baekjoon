@@ -1,0 +1,6 @@
+﻿  난쟁이.cpp
+D:\coding\백준\일곱 난쟁이(2309번)\난쟁이.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\coding\백준\일곱 난쟁이(2309번)\난쟁이.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\coding\백준\일곱 난쟁이(2309번)\난쟁이.cpp(25,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\coding\백준\일곱 난쟁이(2309번)\난쟁이.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  일곱 난쟁이(2309번).vcxproj -> D:\coding\백준\Debug\일곱 난쟁이(2309번).exe

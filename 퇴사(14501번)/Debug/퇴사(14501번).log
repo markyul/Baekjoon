@@ -1,0 +1,2 @@
+﻿퇴사.obj : error LNK2005: _main이(가) 동욱쉑.obj에 이미 정의되어 있습니다.
+D:\coding\백준\Debug\퇴사(14501번).exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
