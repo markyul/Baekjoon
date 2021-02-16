@@ -1,0 +1,4 @@
+﻿  균형.cpp
+D:\coding\Baekjoon\균형잡힌세상(4949번)\균형.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\coding\Baekjoon\균형잡힌세상(4949번)\균형.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  균형잡힌세상(4949번).vcxproj -> D:\coding\Baekjoon\Debug\균형잡힌세상(4949번).exe
