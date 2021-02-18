@@ -101,6 +101,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "균형잡힌세상(4949번)
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "괄호(9012번)", "괄호(9012번)\괄호(9012번).vcxproj", "{1CE2AD69-0E9C-4FC9-B93B-7F47907452B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "제로(10773번)", "제로(10773번)\제로(10773번).vcxproj", "{29172929-C2C9-4183-BA00-439BD4D25140}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "숫자카드2(10816번)", "숫자카드2(10816번)\숫자카드2(10816번).vcxproj", "{0500A54D-1C35-42B6-8173-09329C0C9569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +505,22 @@ Global
 		{1CE2AD69-0E9C-4FC9-B93B-7F47907452B1}.Release|x64.Build.0 = Release|x64
 		{1CE2AD69-0E9C-4FC9-B93B-7F47907452B1}.Release|x86.ActiveCfg = Release|Win32
 		{1CE2AD69-0E9C-4FC9-B93B-7F47907452B1}.Release|x86.Build.0 = Release|Win32
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Debug|x64.ActiveCfg = Debug|x64
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Debug|x64.Build.0 = Debug|x64
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Debug|x86.ActiveCfg = Debug|Win32
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Debug|x86.Build.0 = Debug|Win32
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Release|x64.ActiveCfg = Release|x64
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Release|x64.Build.0 = Release|x64
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Release|x86.ActiveCfg = Release|Win32
+		{29172929-C2C9-4183-BA00-439BD4D25140}.Release|x86.Build.0 = Release|Win32
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Debug|x64.ActiveCfg = Debug|x64
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Debug|x64.Build.0 = Debug|x64
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Debug|x86.ActiveCfg = Debug|Win32
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Debug|x86.Build.0 = Debug|Win32
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Release|x64.ActiveCfg = Release|x64
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Release|x64.Build.0 = Release|x64
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Release|x86.ActiveCfg = Release|Win32
+		{0500A54D-1C35-42B6-8173-09329C0C9569}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
