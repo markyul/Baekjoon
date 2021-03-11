@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "랜선자르기(1654번)", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스택수열(1874번)", "스택수열(1874번)\스택수열(1874번).vcxproj", "{50000414-35D8-496C-BC47-7F7234D1ADE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프린터큐(1966번)", "프린터큐(1966번)\프린터큐(1966번).vcxproj", "{35D4B83D-8CD7-4297-BC20-A82AF834828B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{50000414-35D8-496C-BC47-7F7234D1ADE2}.Release|x64.Build.0 = Release|x64
 		{50000414-35D8-496C-BC47-7F7234D1ADE2}.Release|x86.ActiveCfg = Release|Win32
 		{50000414-35D8-496C-BC47-7F7234D1ADE2}.Release|x86.Build.0 = Release|Win32
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Debug|x64.ActiveCfg = Debug|x64
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Debug|x64.Build.0 = Debug|x64
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Debug|x86.ActiveCfg = Debug|Win32
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Debug|x86.Build.0 = Debug|Win32
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x64.ActiveCfg = Release|x64
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x64.Build.0 = Release|x64
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x86.ActiveCfg = Release|Win32
+		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
