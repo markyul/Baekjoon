@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스택수열(1874번)", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프린터큐(1966번)", "프린터큐(1966번)\프린터큐(1966번).vcxproj", "{35D4B83D-8CD7-4297-BC20-A82AF834828B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나무자르기(2805번)", "나무자르기(2805번)\나무자르기(2805번).vcxproj", "{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -571,6 +573,14 @@ Global
 		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x64.Build.0 = Release|x64
 		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x86.ActiveCfg = Release|Win32
 		{35D4B83D-8CD7-4297-BC20-A82AF834828B}.Release|x86.Build.0 = Release|Win32
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Debug|x64.ActiveCfg = Debug|x64
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Debug|x64.Build.0 = Debug|x64
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Debug|x86.Build.0 = Debug|Win32
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x64.ActiveCfg = Release|x64
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x64.Build.0 = Release|x64
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x86.ActiveCfg = Release|Win32
+		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
