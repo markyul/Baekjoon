@@ -117,6 +117,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프린터큐(1966번)", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나무자르기(2805번)", "나무자르기(2805번)\나무자르기(2805번).vcxproj", "{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "마인크래프트(18111번)", "마인크래프트\마인크래프트.vcxproj", "{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -581,6 +583,14 @@ Global
 		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x64.Build.0 = Release|x64
 		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x86.ActiveCfg = Release|Win32
 		{22FE4BC0-3FD5-4E9E-9472-404C7E6BAEA2}.Release|x86.Build.0 = Release|Win32
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Debug|x64.ActiveCfg = Debug|x64
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Debug|x64.Build.0 = Debug|x64
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Debug|x86.Build.0 = Debug|Win32
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x64.ActiveCfg = Release|x64
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x64.Build.0 = Release|x64
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x86.ActiveCfg = Release|Win32
+		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
