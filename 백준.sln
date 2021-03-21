@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나무자르기(2805번)", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "마인크래프트(18111번)", "마인크래프트\마인크래프트.vcxproj", "{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "소수 구하기(1929번)", "소수 구하기(1929번)\소수 구하기(1929번).vcxproj", "{0160F319-9538-4F6C-879A-76F1EDBADD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -591,6 +593,14 @@ Global
 		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x64.Build.0 = Release|x64
 		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x86.ActiveCfg = Release|Win32
 		{FB2E4B42-ECF2-4CD0-862A-6D197E4B01BE}.Release|x86.Build.0 = Release|Win32
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Debug|x64.ActiveCfg = Debug|x64
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Debug|x64.Build.0 = Debug|x64
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Debug|x86.Build.0 = Debug|Win32
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x64.ActiveCfg = Release|x64
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x64.Build.0 = Release|x64
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x86.ActiveCfg = Release|Win32
+		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
