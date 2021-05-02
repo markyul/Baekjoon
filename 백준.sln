@@ -121,6 +121,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "마인크래프트(18111번
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "소수 구하기(1929번)", "소수 구하기(1929번)\소수 구하기(1929번).vcxproj", "{0160F319-9538-4F6C-879A-76F1EDBADD3C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "사분면(14681번)", "사분면(14681번)\사분면(14681번).vcxproj", "{71A1556F-60D2-43F1-8F32-1E86F285301A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "다이얼(5622번)", "다이얼(5622번)\다이얼(5622번).vcxproj", "{59A9AAA8-CBAF-4111-95A4-05683673653B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "크로아티아 알파벳(2941번)", "크로아티아 알파벳(2941번)\크로아티아 알파벳(2941번).vcxproj", "{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -601,6 +607,30 @@ Global
 		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x64.Build.0 = Release|x64
 		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x86.ActiveCfg = Release|Win32
 		{0160F319-9538-4F6C-879A-76F1EDBADD3C}.Release|x86.Build.0 = Release|Win32
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Debug|x64.ActiveCfg = Debug|x64
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Debug|x64.Build.0 = Debug|x64
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Debug|x86.ActiveCfg = Debug|Win32
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Debug|x86.Build.0 = Debug|Win32
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Release|x64.ActiveCfg = Release|x64
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Release|x64.Build.0 = Release|x64
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Release|x86.ActiveCfg = Release|Win32
+		{71A1556F-60D2-43F1-8F32-1E86F285301A}.Release|x86.Build.0 = Release|Win32
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Debug|x64.ActiveCfg = Debug|x64
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Debug|x64.Build.0 = Debug|x64
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Debug|x86.ActiveCfg = Debug|Win32
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Debug|x86.Build.0 = Debug|Win32
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Release|x64.ActiveCfg = Release|x64
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Release|x64.Build.0 = Release|x64
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Release|x86.ActiveCfg = Release|Win32
+		{59A9AAA8-CBAF-4111-95A4-05683673653B}.Release|x86.Build.0 = Release|Win32
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Debug|x64.ActiveCfg = Debug|x64
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Debug|x64.Build.0 = Debug|x64
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Debug|x86.ActiveCfg = Debug|Win32
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Debug|x86.Build.0 = Debug|Win32
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Release|x64.ActiveCfg = Release|x64
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Release|x64.Build.0 = Release|x64
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Release|x86.ActiveCfg = Release|Win32
+		{86E6C8E6-34AE-4416-A2E9-2E3FB3E2A70F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
