@@ -129,6 +129,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "크로아티아 알파벳(2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "그룹단어체커(1316번)", "그룹단어체커(1316번)\그룹단어체커(1316번).vcxproj", "{4DF72925-2DAC-4CC2-9922-B35BC46ED80D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "손익분기점(1712번)", "손익분기점(1712번)\손익분기점(1712번).vcxproj", "{78777916-15E5-4E29-9874-E039117A4647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -641,6 +643,14 @@ Global
 		{4DF72925-2DAC-4CC2-9922-B35BC46ED80D}.Release|x64.Build.0 = Release|x64
 		{4DF72925-2DAC-4CC2-9922-B35BC46ED80D}.Release|x86.ActiveCfg = Release|Win32
 		{4DF72925-2DAC-4CC2-9922-B35BC46ED80D}.Release|x86.Build.0 = Release|Win32
+		{78777916-15E5-4E29-9874-E039117A4647}.Debug|x64.ActiveCfg = Debug|x64
+		{78777916-15E5-4E29-9874-E039117A4647}.Debug|x64.Build.0 = Debug|x64
+		{78777916-15E5-4E29-9874-E039117A4647}.Debug|x86.ActiveCfg = Debug|Win32
+		{78777916-15E5-4E29-9874-E039117A4647}.Debug|x86.Build.0 = Debug|Win32
+		{78777916-15E5-4E29-9874-E039117A4647}.Release|x64.ActiveCfg = Release|x64
+		{78777916-15E5-4E29-9874-E039117A4647}.Release|x64.Build.0 = Release|x64
+		{78777916-15E5-4E29-9874-E039117A4647}.Release|x86.ActiveCfg = Release|Win32
+		{78777916-15E5-4E29-9874-E039117A4647}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
