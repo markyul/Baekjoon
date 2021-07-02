@@ -139,6 +139,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "네번째점(3009번)", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "택시기하학(3053번)", "택시기하학(3053번)\택시기하학(3053번).vcxproj", "{EDC690BE-0139-413E-9034-8D964EB61F6B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fly_me_to_the_Alpha_Centauri(1011번)", "Fly_me_to_the_Alpha_Centauri(1011번)\Fly_me_to_the_Alpha_Centauri(1011번).vcxproj", "{D8B18725-4CB3-4A4F-9FD4-4C699603E113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -691,6 +693,14 @@ Global
 		{EDC690BE-0139-413E-9034-8D964EB61F6B}.Release|x64.Build.0 = Release|x64
 		{EDC690BE-0139-413E-9034-8D964EB61F6B}.Release|x86.ActiveCfg = Release|Win32
 		{EDC690BE-0139-413E-9034-8D964EB61F6B}.Release|x86.Build.0 = Release|Win32
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Debug|x64.ActiveCfg = Debug|x64
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Debug|x64.Build.0 = Debug|x64
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Debug|x86.Build.0 = Debug|Win32
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Release|x64.ActiveCfg = Release|x64
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Release|x64.Build.0 = Release|x64
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Release|x86.ActiveCfg = Release|Win32
+		{D8B18725-4CB3-4A4F-9FD4-4C699603E113}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
