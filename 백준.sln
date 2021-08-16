@@ -165,6 +165,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "N_Queen(9663번)", "N_Queen
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스타트와링크(14889번)", "스타트와링크(14889번)\스타트와링크(14889번).vcxproj", "{C21C8145-D1E4-4EF1-A169-3F6575ACEECF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "연산자 끼워넣기(14888번)", "연산자 끼워넣기(14888번)\연산자 끼워넣기(14888번).vcxproj", "{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -821,6 +823,14 @@ Global
 		{C21C8145-D1E4-4EF1-A169-3F6575ACEECF}.Release|x64.Build.0 = Release|x64
 		{C21C8145-D1E4-4EF1-A169-3F6575ACEECF}.Release|x86.ActiveCfg = Release|Win32
 		{C21C8145-D1E4-4EF1-A169-3F6575ACEECF}.Release|x86.Build.0 = Release|Win32
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Debug|x64.ActiveCfg = Debug|x64
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Debug|x64.Build.0 = Debug|x64
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Debug|x86.ActiveCfg = Debug|Win32
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Debug|x86.Build.0 = Debug|Win32
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Release|x64.ActiveCfg = Release|x64
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Release|x64.Build.0 = Release|x64
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Release|x86.ActiveCfg = Release|Win32
+		{71AC18FE-0612-48DD-8EEA-2C9D7236CECE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
