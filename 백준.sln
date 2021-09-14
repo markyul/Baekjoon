@@ -185,6 +185,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "평범한배낭(12865번)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "주유소(13305번)", "주유소(13305번)\주유소(13305번).vcxproj", "{2181B1CD-795D-4E9A-A981-C76EDFCC97AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "동전0(11047번)", "동전0(11047번)\동전0(11047번).vcxproj", "{5D9E15A2-0368-4057-AC19-BADC9E6011DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -921,6 +923,14 @@ Global
 		{2181B1CD-795D-4E9A-A981-C76EDFCC97AB}.Release|x64.Build.0 = Release|x64
 		{2181B1CD-795D-4E9A-A981-C76EDFCC97AB}.Release|x86.ActiveCfg = Release|Win32
 		{2181B1CD-795D-4E9A-A981-C76EDFCC97AB}.Release|x86.Build.0 = Release|Win32
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Debug|x64.ActiveCfg = Debug|x64
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Debug|x64.Build.0 = Debug|x64
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Debug|x86.Build.0 = Debug|Win32
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Release|x64.ActiveCfg = Release|x64
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Release|x64.Build.0 = Release|x64
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Release|x86.ActiveCfg = Release|Win32
+		{5D9E15A2-0368-4057-AC19-BADC9E6011DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
