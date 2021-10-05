@@ -5,52 +5,52 @@
 using namespace std;
 
 int N;
-vector<vector<int>> matrix;
-vector<vector<int>> answer;
+int matrix[5][5];
+int answer[5][5];
 long long B;
 
-void multiMatrix(vector<vector<int>> Amatrix, vector<vector<int>> Bmatrix) {
-	vector<vector<int>> C;
-	vector<int> nums;
+void multiMatrix(int Amatrix[][5], int Bmatrix[][5]) {
+	int temp[5][5] = { 0,};
 
 	for (int i = 0; i < N; i++) {
 		for (int j = 0; j < N; j++) {
-			int sum = 0;
-
 			for (int k = 0; k < N; k++) {
-				sum += Amatrix[i][k] * Bmatrix[k][j];
+				temp[i][j] += Amatrix[i][k] * Bmatrix[k][j];
 			}
-			nums.push_back(sum);
+			temp[i][j] %= 1000;
 		}
-		C.push_back(nums);
-		nums.clear();
 	}
-
+	
 	for (int i = 0; i < N; i++) {
-		answer.push_back(C[i]);
+		for (int j = 0; j < N; j++) {
+			Amatrix[i][j] = temp[i][j];
+		}
 	}
 }
 
 void input() {
-	int num;
-	vector<int> nums;
-
 	cin >> N >> B;
 
 	for (int i = 0; i < N; i++) {
 		for (int j = 0; j < N; j++) {
-			cin >> num;
-			nums.push_back(num);
+			cin >> matrix[i][j];
 		}
-		matrix.push_back(nums);
-		nums.clear();
+		answer[i][i] = 1;
 	}
 }
 
-vector<vector<int>> recursion() {
-	vector<vector<int>> test;
+void solve() {
+	while (B > 0) {
+		// 지수가 홀수면 지수-1 하고 answer에 Amatrix를 곱함
+		if (B % 2 == 1) {
+			B -= 1;
+			multiMatrix(answer, matrix);
+		}
+		// B가 짝수가 될 것이니까 matrix끼리 곱하고 B / 2
+		multiMatrix(matrix, matrix);
+		B /= 2;
+	}
 	
-	return test;
 }
 
 int main(void) {
@@ -59,7 +59,8 @@ int main(void) {
 	cout.tie(NULL);
 
 	input();
-	multiMatrix(matrix, matrix);
+	solve();
+	
 	for (int i = 0; i < N; i++) {
 		for (int j = 0; j < N; j++) {
 			cout << answer[i][j] << " ";
