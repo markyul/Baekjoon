@@ -205,6 +205,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge", "merge\merge.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나는야포켓몬마스터(1620번)", "나는야포켓몬마스터(1620번)\나는야포켓몬마스터(1620번).vcxproj", "{30EFE015-7688-4CA9-ABD7-1FF5366B2D5F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "팩토리얼0의개수(1676번)", "팩토리얼0의개수(1676번)\팩토리얼0의개수(1676번).vcxproj", "{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1021,6 +1023,14 @@ Global
 		{30EFE015-7688-4CA9-ABD7-1FF5366B2D5F}.Release|x64.Build.0 = Release|x64
 		{30EFE015-7688-4CA9-ABD7-1FF5366B2D5F}.Release|x86.ActiveCfg = Release|Win32
 		{30EFE015-7688-4CA9-ABD7-1FF5366B2D5F}.Release|x86.Build.0 = Release|Win32
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Debug|x64.ActiveCfg = Debug|x64
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Debug|x64.Build.0 = Debug|x64
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Debug|x86.Build.0 = Debug|Win32
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x64.ActiveCfg = Release|x64
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x64.Build.0 = Release|x64
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x86.ActiveCfg = Release|Win32
+		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
