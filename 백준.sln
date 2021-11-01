@@ -207,6 +207,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나는야포켓몬마스터
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "팩토리얼0의개수(1676번)", "팩토리얼0의개수(1676번)\팩토리얼0의개수(1676번).vcxproj", "{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "듣보잡(1764번)", "듣보잡(1764번)\듣보잡(1764번).vcxproj", "{7411652B-E706-4D1B-A685-CBD72EBFAF41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1031,6 +1033,14 @@ Global
 		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x64.Build.0 = Release|x64
 		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x86.ActiveCfg = Release|Win32
 		{484ADCB6-BD15-4093-AF42-7E7E356A8AEB}.Release|x86.Build.0 = Release|Win32
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Debug|x64.ActiveCfg = Debug|x64
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Debug|x64.Build.0 = Debug|x64
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Debug|x86.ActiveCfg = Debug|Win32
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Debug|x86.Build.0 = Debug|Win32
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x64.ActiveCfg = Release|x64
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x64.Build.0 = Release|x64
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x86.ActiveCfg = Release|Win32
+		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
