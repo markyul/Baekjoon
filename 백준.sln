@@ -209,6 +209,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "팩토리얼0의개수(1676
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "듣보잡(1764번)", "듣보잡(1764번)\듣보잡(1764번).vcxproj", "{7411652B-E706-4D1B-A685-CBD72EBFAF41}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "적록색약(10026번)", "적록색약(10026번)\적록색약(10026번).vcxproj", "{6698F9E8-43B0-407D-AF28-A5B25190853D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1041,6 +1043,14 @@ Global
 		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x64.Build.0 = Release|x64
 		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x86.ActiveCfg = Release|Win32
 		{7411652B-E706-4D1B-A685-CBD72EBFAF41}.Release|x86.Build.0 = Release|Win32
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Debug|x64.ActiveCfg = Debug|x64
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Debug|x64.Build.0 = Debug|x64
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Debug|x86.ActiveCfg = Debug|Win32
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Debug|x86.Build.0 = Debug|Win32
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Release|x64.ActiveCfg = Release|x64
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Release|x64.Build.0 = Release|x64
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Release|x86.ActiveCfg = Release|Win32
+		{6698F9E8-43B0-407D-AF28-A5B25190853D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
