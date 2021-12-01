@@ -219,6 +219,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "가장긴증가하는부분
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1로만들기", "1로만들기\1로만들기.vcxproj", "{80475954-F561-445A-A72C-929B5F79B857}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "계단오르기(2579번)", "계단오르기(2579번)\계단오르기(2579번).vcxproj", "{9097CA6B-9781-4104-8426-D767E42F13AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1091,6 +1093,14 @@ Global
 		{80475954-F561-445A-A72C-929B5F79B857}.Release|x64.Build.0 = Release|x64
 		{80475954-F561-445A-A72C-929B5F79B857}.Release|x86.ActiveCfg = Release|Win32
 		{80475954-F561-445A-A72C-929B5F79B857}.Release|x86.Build.0 = Release|Win32
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Debug|x64.ActiveCfg = Debug|x64
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Debug|x64.Build.0 = Debug|x64
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Debug|x86.Build.0 = Debug|Win32
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Release|x64.ActiveCfg = Release|x64
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Release|x64.Build.0 = Release|x64
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Release|x86.ActiveCfg = Release|Win32
+		{9097CA6B-9781-4104-8426-D767E42F13AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
