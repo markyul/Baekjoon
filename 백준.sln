@@ -225,6 +225,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "바이러스(2606번)", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "패션왕신해빈(9375번)", "패션왕신해빈(9375번)\패션왕신해빈(9375번).vcxproj", "{F61A6B3D-CC4A-49C3-8244-D319C85391C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATM(11399번)", "ATM(11399번)\ATM(11399번).vcxproj", "{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "구간합구하기4(11659번)", "구간합구하기4(11659번)\구간합구하기4(11659번).vcxproj", "{06BE3673-B959-47C7-856E-AF5EAEB20CE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1121,6 +1125,22 @@ Global
 		{F61A6B3D-CC4A-49C3-8244-D319C85391C9}.Release|x64.Build.0 = Release|x64
 		{F61A6B3D-CC4A-49C3-8244-D319C85391C9}.Release|x86.ActiveCfg = Release|Win32
 		{F61A6B3D-CC4A-49C3-8244-D319C85391C9}.Release|x86.Build.0 = Release|Win32
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Debug|x64.ActiveCfg = Debug|x64
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Debug|x64.Build.0 = Debug|x64
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Debug|x86.Build.0 = Debug|Win32
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Release|x64.ActiveCfg = Release|x64
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Release|x64.Build.0 = Release|x64
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Release|x86.ActiveCfg = Release|Win32
+		{80CA9983-6E11-4FFA-91FA-9ADA0FE973DE}.Release|x86.Build.0 = Release|Win32
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Debug|x64.ActiveCfg = Debug|x64
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Debug|x64.Build.0 = Debug|x64
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Debug|x86.Build.0 = Debug|Win32
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Release|x64.ActiveCfg = Release|x64
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Release|x64.Build.0 = Release|x64
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Release|x86.ActiveCfg = Release|Win32
+		{06BE3673-B959-47C7-856E-AF5EAEB20CE0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
